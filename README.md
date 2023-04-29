@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Yash Goswami</h1>
 
-<!--
-**CodeCrusader17/CodeCrusader17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+</p>
+<p align="center">
 
-Here are some ideas to get you started:
+<h2 align="center">Skills </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,js,html,css,vscode,androidstudio,unreal,ps" />
+  </a>
+</p>
+
+
+<p align= "center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codecrusader17&theme=tokyonight&show_icons=true&locale=en" alt="codecrusader17" /></p>
